@@ -1,40 +1,44 @@
-# WhatsApp Manual Testing Project
+# 📱 WhatsApp Manual Testing Project
 
-## Project Overview
+## 📌 Project Overview
 
-This repository contains manual testing documentation for the WhatsApp mobile application.
+This repository contains a **complete Manual Testing project** for the WhatsApp mobile application.
+The objective of this project is to validate the core functionalities of the application by designing and executing structured **test cases**, identifying **bugs**, and generating **testing reports and dashboards**.
 
-## Testing Scope
+This project demonstrates **software testing skills**, documentation practices, and QA methodologies used in real-world projects.
 
-The following modules were tested:
+---
 
-* Login
-* Messaging
-* Media Sharing
-* Status Updates
-* Profile Management
-* Contacts
-* Groups
-* Calls
+# 🎯 Testing Objectives
 
-## Project Files
+* Verify the core functionalities of the WhatsApp application
+* Identify defects and document them in bug reports
+* Execute test cases and track results
+* Create testing dashboards for analysis
+* Demonstrate manual testing practices used in QA projects
 
-* 40 Manual Test Cases
-* 20 Bug Reports
-* Test Execution Report
-* Testing Dashboard with charts
+---
 
-## Tools Used
+# 🧪 Scope of Testing
 
-* Microsoft Excel
-* Manual Testing Techniques
-* Pivot Tables
-* Data Visualization
+The following modules of the WhatsApp application were tested:
 
-## Objective
+* 🔐 User Login / Registration
+* 💬 Messaging / Chat
+* 📎 Media Sharing (Images, Videos, Files)
+* 📊 Status Upload and Viewing
+* 👤 Profile Management
+* 📞 Voice / Video Calls
+* 👥 Group Creation and Messaging
+* 📇 Contact Synchronization
 
-To validate the core functionality and usability of the WhatsApp application through structured manual testing.
+---
 
-## Author
+# 📂 Project Repository Structure
 
-Your Name
+```
+WhatsApp-Manual-Testing-Project
+│
+├── Test-Cases
+│   └── WhatsApp_Test_Cases.
+```
